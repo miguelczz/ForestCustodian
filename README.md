@@ -4,7 +4,7 @@ Forest Custodian es un videojuego educativo en 2D desarrollado con Python y Pyga
 
 El juego implementa una arquitectura modular dividida en paquetes funcionales: lógica del jugador, enemigos, entorno, interfaz gráfica y niveles. Utiliza animaciones 8-bit, sonido ambiental y una estructura de niveles que aumenta progresivamente en dificultad. Se ejecuta localmente sin dependencias externas, mediante un único punto de entrada (main.py).
 
-![Inicio](assets/images/readme/inicio.png)
+<img src="assets/images/readme/inicio.png" alt="Inicio" width="300"/>
 ![Puntajes](assets/images/readme/puntajes.png)
 ![Enemigos](assets/images/readme/principañ.png)
 ![Daño](assets/images/readme/daño.png)
