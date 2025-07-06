@@ -41,16 +41,16 @@ El juego implementa una arquitectura modular dividida en paquetes funcionales: l
 Este proyecto no requiere instalación de dependencias adicionales. Solo se necesita tener Python 3.x y la biblioteca Pygame correctamente instalada.
 
 1. Clonar el repositorio:
-bash
+´´´bash
 git clone https://github.com/miguelczz/ForestCustodian.git
 cd ForestCustodian
+´´´
 
-
-2. Instalar Pygame:
+3. Instalar Pygame:
 bash
 pip install pygame
 
 
-3. Ejecutar el archivo principal:
+4. Ejecutar el archivo principal:
 bash
 python main.py
